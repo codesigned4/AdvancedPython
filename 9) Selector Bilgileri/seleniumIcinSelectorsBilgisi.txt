@@ -1,0 +1,9 @@
+Selenium ile ulaştığımız sayfalardaki html bilgilerine ulaşabilmek için selector bilgileri
+->class olduğu zaman . id olduğu zaman # kullanırız
+->input yazarsan direkt olarak etikete göre ulaşmış oluruz
+----------------------
+Etiketlere ulaşırken
+1)Etiket isimlerini kullanabiliriz (h1 h2 gibi)
+2)id bilgisi ile ulaşabiliriz (id bilgisini verirken verdiğin id bilgisi sayfada bir tane olması gerekiyor)
+3)class isimleri ile ulaşabilirsin
+4)formlarda type ına göre ulaşabiliriz
